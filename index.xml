@@ -1,4 +1,4 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>一叶方舟</title><link>/</link><description>Recent content on 一叶方舟</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><copyright>本站遵循 CC-BY-NC 4.0 协议。</copyright><lastBuildDate>Wed, 15 Nov 2017 00:32:01 +0800</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><item><title>Bash 脚本 set 命令教程（转）</title><link>/2017/11/15/bash-set-command/</link><pubDate>Wed, 15 Nov 2017 00:32:01 +0800</pubDate><guid>/2017/11/15/bash-set-command/</guid><description>一叶方舟 /2017/11/15/bash-set-command/ -&lt;p>服务器的开发和管理离不开 Bash 脚本，掌握它需要学习大量的细节。&lt;/p>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>一叶方舟</title><link>http://leafz.net/</link><description>Recent content on 一叶方舟</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><copyright>本站遵循 CC-BY-NC 4.0 协议。</copyright><lastBuildDate>Wed, 15 Nov 2017 00:32:01 +0800</lastBuildDate><atom:link href="http://leafz.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Bash 脚本 set 命令教程（转）</title><link>http://leafz.net/2017/11/15/bash-set-command/</link><pubDate>Wed, 15 Nov 2017 00:32:01 +0800</pubDate><guid>http://leafz.net/2017/11/15/bash-set-command/</guid><description>一叶方舟 http://leafz.net/2017/11/15/bash-set-command/ -&lt;p>服务器的开发和管理离不开 Bash 脚本，掌握它需要学习大量的细节。&lt;/p>
 &lt;p>&lt;code>set&lt;/code> 命令是 Bash 脚本的重要环节，却常常被忽视，导致脚本的安全性和可维护性出问题。本文介绍它的基本用法，让你可以更安心地使用 Bash 脚本。&lt;/p>
 &lt;h2 id="一简介">一、简介&lt;/h2>
 &lt;p>我们知道，Bash 执行脚本的时候，会创建一个新的 Shell。&lt;/p>
@@ -115,7 +115,7 @@ set -o pipefail
 &lt;li>&lt;a href="http://www.davidpashley.com/articles/writing-robust-shell-scripts/">Writing Robust Bash Shell Scripts&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;p>转自：阮一峰的网络日志 &lt;a href="http://www.ruanyifeng.com/blog/2017/11/bash-set.html">http://www.ruanyifeng.com/blog/2017/11/bash-set.html&lt;/a>&lt;/p>
-- /2017/11/15/bash-set-command/ - 本站遵循 CC-BY-NC 4.0 协议。</description></item><item><title>电钢琴录音测试</title><link>/2015/05/22/e-piano-recording-test/</link><pubDate>Fri, 22 May 2015 00:30:00 +0800</pubDate><guid>/2015/05/22/e-piano-recording-test/</guid><description>一叶方舟 /2015/05/22/e-piano-recording-test/ -&lt;h2 id="音频线缆35mm-公对公">音频线缆（3.5mm 公对公）&lt;/h2>
+- http://leafz.net/2017/11/15/bash-set-command/ - 本站遵循 CC-BY-NC 4.0 协议。</description></item><item><title>电钢琴录音测试</title><link>http://leafz.net/2015/05/22/e-piano-recording-test/</link><pubDate>Fri, 22 May 2015 00:30:00 +0800</pubDate><guid>http://leafz.net/2015/05/22/e-piano-recording-test/</guid><description>一叶方舟 http://leafz.net/2015/05/22/e-piano-recording-test/ -&lt;h2 id="音频线缆35mm-公对公">音频线缆（3.5mm 公对公）&lt;/h2>
 &lt;p>买了 3.5mm-to-3.5mm 的音频线，终于可以直接内录电钢的声音了:)&lt;/p>
 &lt;h2 id="录音成果渣弹奏轻喷">录音成果：（渣弹奏，轻喷~）&lt;/h2>
 &lt;ul>
@@ -141,4 +141,4 @@ Your browser does not support the audio element.
 &lt;/audio>
 &lt;/li>
 &lt;/ul>
-- /2015/05/22/e-piano-recording-test/ - 本站遵循 CC-BY-NC 4.0 协议。</description></item></channel></rss>
+- http://leafz.net/2015/05/22/e-piano-recording-test/ - 本站遵循 CC-BY-NC 4.0 协议。</description></item></channel></rss>
